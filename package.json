@@ -1,0 +1,27 @@
+{
+  "name": "binary-search-trees",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000B\u0000i\u0000n\u0000a\u0000r\u0000y\u0000-\u0000S\u0000e\u0000a\u0000r\u0000c\u0000h\u0000-\u0000T\u0000r\u0000e\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick0099/Binary-Search-Trees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nick0099/Binary-Search-Trees/issues"
+  },
+  "homepage": "https://github.com/Nick0099/Binary-Search-Trees#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
